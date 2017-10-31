@@ -1874,6 +1874,8 @@ var tolokaHelperDB = new (function () {
 ['best fm', null, 'http://player.bestfm.ru/', this.plus],
 ['мультиплекс херсон', null, 'http://kino.i.ua/cinema/?type=my&city=12301', this.minus],
 ['микки маус и его друзья игры онлайн', null, 'http://igroutka.net/igry-disney/8510-mikki-maus-i-ego-druzya.html', this.minus],
+['энтерофурил капсулы отзывы', null, 'http://www.imho24.ru/recommendation/4204/', this.minus],
+['росбалт', null, 'http://n1.by/news/rosbalt', this.mnerel],
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
